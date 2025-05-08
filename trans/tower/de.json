@@ -7,10 +7,10 @@
         "GROUP_general_interface": {
             "CODE_aaa_untranslated": {
                 "TXID_AREYOUWITHME": "Verstehst du mich?",
-                "TXID_CAP_ACCEPTCONT": "Accept & Continue",
-                "TXID_CAP_AFTERADS": "after ads",
-                "TXID_CAP_AVAILABLEWORLDS": "Available worlds",
-                "TXID_CAP_BACKUPSEXPLANATION": "Backup lets you store and revert your current game world, while it has no effect on the currencies which are linked to your account (Rubies)",
+                "TXID_CAP_ACCEPTCONT": "Akzeptieren & Weiter",
+                "TXID_CAP_AFTERADS": "Nach Werbung",
+                "TXID_CAP_AVAILABLEWORLDS": "Erhältliche Welten",
+                "TXID_CAP_BACKUPSEXPLANATION": "Backups ermöglichen es dir, deine aktuelle Spielwelt zu speichern und wiederherzustellen. Dabei haben sie jedoch keinen Einfluss auf die Währungen, die mit deinem Konto verknüpft sind (Rubine).",
                 "TXID_CAP_BONRESTOREIN": "Bonuses will be restored in",
                 "TXID_CAP_CONTINUE": "Continue",
                 "TXID_CAP_EXIT": "QUIT",
